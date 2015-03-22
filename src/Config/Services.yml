@@ -1,0 +1,7 @@
+TemplateService1: 
+  class: Mpwarfwk\Services\TestService1
+  arguments: 
+
+TemplateService2: 
+  class: Mpwarfwk\Services\TestService2
+  arguments: [Mpwarfwk\Services\SubService1, Mpwarfwk\Services\SubService2]

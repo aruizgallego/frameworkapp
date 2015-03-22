@@ -1,0 +1,28 @@
+{
+	"name":"alejandro/mpwarfwk-standard-edition",
+	"description":"Standard APP using MPWAR Framework",
+	"license":"Apache-2.0",
+	"keywords": [],
+	"homepage":"https://github.com/aruizgallego/mpwarfwk",
+	"type":"project",
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "git@github.com:aruizgallego/mpwarfwk"
+		}
+	]
+	,
+	"require": {
+		"php": ">=5.5.0",
+		"aruizgallego/mpwarfwk": "dev-devel"
+	},		
+	"minimum-stability": "dev",
+	"autoload": {
+		"psr-4": {
+			"":"src/"
+		}
+	}
+}
+
+
+

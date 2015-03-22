@@ -1,0 +1,9 @@
+home: Controller\\Home\\Home\\welcome
+home/response: Controller\\Home\\Home\\response
+home/json-response: Controller\\Home\\Home\\jsonResponse
+home/smarty: Controller\\Home\\Home\\smartyResponse
+home/twig: Controller\\Home\\Home\\twigResponse
+home/service1: Controller\\Home\\Home\\useContainerService1
+home/service2: Controller\\Home\\Home\\useContainerService2
+home/clasification: Controller\\Home\\Home\\clasification
+home/i18n: Controller\\Home\\Home\\usei18n
