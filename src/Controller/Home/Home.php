@@ -80,7 +80,7 @@ Class Home extends BaseController
 	
 		$query = "
 			SELECT *
-			FROM mydb.clasification
+			FROM frameworkdb.clasification
 			ORDER BY points DESC";
 
 		$this->db->query($query);
